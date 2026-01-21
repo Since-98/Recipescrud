@@ -117,7 +117,7 @@
 
     {{-- Footer --}}
     <footer>
-        <p>&copy; {{ date('Y') }} <strong>TastyBites</strong> – Made with ❤️ using Laravel.
+        <p>&copy; {{ date('Y') }} <strong>TastyBites</strong> – Made with ❤️.
         <a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">YouTube</a></p>
     </footer>
 
